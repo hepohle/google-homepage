@@ -1,0 +1,36 @@
+html{
+    text-align: center;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    color: #333333;
+}
+
+.container{
+
+}
+.header{
+    height: 65px;
+}
+.img-wrap{
+    
+}
+#logo{
+    max-height: 92px;
+    margin-bottom: 15px;
+}
+
+.search-wrap input{
+    min-height: 35px;
+    width: 350px;
+    margin-bottom: 15px;
+}
+
+.btn-wrap{
+    padding: 15px 10px;
+}
+.btn-wrap input{
+    margin: 5px;
+    padding: 10px;
+}
